@@ -1,0 +1,27 @@
+{
+  "name": "random-link",
+  "version": "0.0.2",
+  "description": "random link generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "h3ntai",
+  "license": "ISC",
+  "dependencies": {
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TENTACLEH3NTAI/random-link.git"
+  },
+  "keywords": [
+    "random",
+    "link",
+    "generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/TENTACLEH3NTAI/random-link/issues"
+  },
+  "homepage": "https://github.com/TENTACLEH3NTAI/random-link#readme"
+}
